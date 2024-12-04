@@ -1,3 +1,4 @@
+![Power BI Banner](PowerBIBanner.webp)  
 # **Power BI Projects Repository**  
 
 This repository contains a collection of Power BI projects demonstrating data visualization, dashboard creation, and business intelligence analysis. Each project showcases the capabilities of Power BI in transforming raw data into actionable insights.  
